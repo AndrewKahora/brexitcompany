@@ -1,7 +1,7 @@
 .logo {
-    color: aquamarine;
+    color: blue;
     font-size: 50px;
-    background-color: silver;
+    background-color: #41d4d4;
     display: inline-block;
 }
 .primary {
