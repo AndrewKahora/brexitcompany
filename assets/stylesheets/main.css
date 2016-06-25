@@ -1,0 +1,59 @@
+.logo {
+    color: aquamarine;
+    font-size: 50px;
+    background-color: silver;
+    display: inline-block;
+}
+.primary {
+    text-align: right;
+    color: blue;
+    font-size: 30px;
+}
+.images{
+    width: 300px;
+    height: 200px;
+    align-items: center;
+    
+}
+#logo {
+    float:left;
+}
+#menu {
+    float:right;    
+}
+#header {
+    clear: both;
+    overflow: auto;
+}
+h3{
+    font-size: 23px;
+    color: #407765
+}
+h1{
+    font-size: 29px;
+    color: #0b6767;
+}
+p{
+    font-size: 23px;
+    font-family: fantasy;
+    font-size-adjust: auto;
+    
+}
+body{
+    background-color: #e1ffff;
+}
+footer{
+    
+}
+alignment{
+    text-align: center;
+    float:right;
+}
+action-page{
+    margin-left: 23px;
+    
+}
+form{
+    padding: 70px;
+    
+}
